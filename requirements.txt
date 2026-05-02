@@ -1,0 +1,16 @@
+fastapi==0.115.0
+uvicorn==0.30.0
+
+pdfminer.six==20240706
+python-docx==1.1.2
+
+sentence-transformers==3.0.1
+transformers==4.44.2
+
+faiss-cpu==1.7.4
+
+spacy==3.7.5
+
+python-multipart
+
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
