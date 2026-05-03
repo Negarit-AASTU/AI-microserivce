@@ -8,6 +8,7 @@ from services.job_service import router as job_router
 from services.match_service import router as match_router
 from services.rank_service import router as rank_router
 from services.question_service import router as question_router
+from services.skill_gap_service import router as skill_gap_router
 
 
 app = FastAPI()
@@ -17,3 +18,4 @@ app.include_router(job_router)
 app.include_router(match_router)
 app.include_router(rank_router)
 app.include_router(question_router)
+app.include_router(skill_gap_router)
