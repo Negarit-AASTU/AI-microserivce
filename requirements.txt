@@ -5,14 +5,10 @@ pdfminer.six==20240706
 python-docx==1.1.2
 
 sentence-transformers==3.0.1
-transformers==4.44.2
-
-faiss-cpu==1.8.0.post1
 
 spacy==3.7.5
 
-python-multipart
-# python-multipart==0.0.9
+python-multipart==0.0.9
 
 google-genai
 python-dotenv
