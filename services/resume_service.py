@@ -1,8 +1,7 @@
 from fastapi import APIRouter, UploadFile, File
 from core.extractor import extract_pdf, extract_docx
-from core.parser import parse_resume
 from core.embedding import embed_text
-from utils.resume_schema import build_resume_embedding_text
+from core.text_cleaner import clean_text
 
 router = APIRouter()
 
@@ -16,16 +15,13 @@ async def upload_resume(file: UploadFile = File(...)):
     else:
         text = extract_docx(content)
 
-    # 2. parse structured resume
-    parsed = parse_resume(text)
-
-    # 3. build embedding input
-    embedding_input = build_resume_embedding_text(parsed)
+    # 2. clean raw text
+    cleaned = clean_text(text)
 
     # 4. generate embedding
-    embedding = embed_text(embedding_input)
+    embedding = embed_text(cleaned)
 
     return {
-        "parsed_resume": parsed,
+        "text_preview": cleaned[:500],
         "embedding": embedding.tolist()
     }
