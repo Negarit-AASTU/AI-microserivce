@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+.env
+negarit_dataset.json
+data_pipeline/data/*.csv
+data_pipeline/data/*.jsonl

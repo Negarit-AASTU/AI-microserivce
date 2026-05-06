@@ -1,0 +1,926 @@
+[
+  {
+    "id": "b75948aa-2ca4-4d0e-99a6-510a4c6e631a",
+    "name": "Hiwot Assefa",
+    "email": "hiwot.assefa@protonmail.com",
+    "phone": "+251973703789",
+    "linkedin": "https://www.linkedin.com/in/hiwot-assefa-2203",
+    "telegram": "@HiwotAssefa586",
+    "category": "logistics",
+    "skills": [
+      "SAP Logistics",
+      "Customs Clearance",
+      "Last-Mile Delivery",
+      "Demand Forecasting",
+      "Procurement",
+      "Logistics Software",
+      "Lean Manufacturing",
+      "Cold Chain Management",
+      "Fleet Management",
+      "Inventory Control",
+      "Supply Chain Management",
+      "Route Optimization"
+    ],
+    "experience": [
+      {
+        "company": "Maersk Ethiopia",
+        "role": "Fleet Manager",
+        "duration": "5 years"
+      }
+    ],
+    "education": [
+      {
+        "school": "Hawassa University",
+        "degree": "B.Sc. in Industrial Engineering",
+        "year": 2010
+      }
+    ],
+    "location": "Adama (Nazret)",
+    "languages": [
+      "Amharic",
+      "English"
+    ],
+    "raw_text": "Hiwot Assefa is a Fleet Manager with expertise in Logistics. Based in Adama (Nazret), fluent in Amharic, English."
+  },
+  {
+    "id": "bd7c3037-eaf6-4ba1-898e-5dad3ddebc46",
+    "name": "Temesgen Gashaw",
+    "email": "temesgen.gashaw@protonmail.com",
+    "phone": "+251907419206",
+    "linkedin": "https://www.linkedin.com/in/temesgen-gashaw-1896",
+    "telegram": "@TemesgenGashaw872",
+    "category": "education",
+    "skills": [
+      "Google Workspace",
+      "Academic Writing",
+      "Lesson Planning",
+      "Student Assessment",
+      "English as a Second Language (ESL)",
+      "E-Learning Platforms",
+      "Grant Writing"
+    ],
+    "experience": [
+      {
+        "company": "Addis Ababa University",
+        "role": "Research Associate",
+        "duration": "4 years"
+      }
+    ],
+    "education": [
+      {
+        "school": "Jimma University",
+        "degree": "PhD in Education",
+        "year": 2020
+      }
+    ],
+    "location": "Dessie",
+    "languages": [
+      "Amharic",
+      "English"
+    ],
+    "raw_text": "Temesgen Gashaw is a Research Associate with expertise in Education. Based in Dessie, fluent in Amharic, English."
+  },
+  {
+    "id": "22e06d01-f843-421c-afcd-9ffc2d45ee9c",
+    "name": "Eyerusalem Kasahun",
+    "email": "e.kasahun@gmail.com",
+    "phone": "+917329828342",
+    "linkedin": "https://www.linkedin.com/in/eyerusalem-kasahun-1481",
+    "telegram": "@EyerusalemKasahun640",
+    "category": "education",
+    "skills": [
+      "Google Workspace",
+      "Curriculum Design",
+      "English as a Second Language (ESL)",
+      "Moodle",
+      "Academic Writing",
+      "Microsoft Office",
+      "Educational Research"
+    ],
+    "experience": [
+      {
+        "company": "Addis Ababa University",
+        "role": "Instructional Designer",
+        "duration": "4 years"
+      },
+      {
+        "company": "British Council Ethiopia",
+        "role": "Training Coordinator",
+        "duration": "1 year"
+      },
+      {
+        "company": "USAID Ethiopia Education",
+        "role": "Research Associate",
+        "duration": "1 year"
+      }
+    ],
+    "education": [
+      {
+        "school": "Dire Dawa University",
+        "degree": "PhD in Education",
+        "year": 2010
+      }
+    ],
+    "location": "Dire Dawa",
+    "languages": [
+      "English",
+      "Amharic",
+      "French"
+    ],
+    "raw_text": "Eyerusalem Kasahun is a Instructional Designer with expertise in Education. Based in Dire Dawa, fluent in English, Amharic, French."
+  },
+  {
+    "id": "4129373a-a5ca-4567-850a-d6fecb648cc2",
+    "name": "Girum Gizaw",
+    "email": "girum.gizaw88@yahoo.com",
+    "phone": "+251927819885",
+    "linkedin": "https://www.linkedin.com/in/girum-gizaw-7025",
+    "telegram": "@GirumGizaw263",
+    "category": "education",
+    "skills": [
+      "Moodle",
+      "Teaching Methodology",
+      "Student Assessment",
+      "Special Needs Education",
+      "Microsoft Office",
+      "Lesson Planning"
+    ],
+    "experience": [
+      {
+        "company": "USAID Ethiopia Education",
+        "role": "University Lecturer",
+        "duration": "2 years"
+      },
+      {
+        "company": "British Council Ethiopia",
+        "role": "Curriculum Developer",
+        "duration": "1 year"
+      }
+    ],
+    "education": [
+      {
+        "school": "Wollo University",
+        "degree": "B.Sc. in Educational Psychology",
+        "year": 2008
+      }
+    ],
+    "location": "Addis Ababa",
+    "languages": [
+      "English",
+      "Amharic",
+      "French"
+    ],
+    "raw_text": "Girum Gizaw is a University Lecturer with expertise in Education. Based in Addis Ababa, fluent in English, Amharic, French."
+  },
+  {
+    "id": "f513e757-18e1-42c0-a4eb-4ad2dcfe285a",
+    "name": "Biruk Yilma",
+    "email": "b.yilma@gmail.com",
+    "phone": "0941501112",
+    "linkedin": "https://www.linkedin.com/in/biruk-yilma-6441",
+    "telegram": "@BirukYilma573",
+    "category": "finance",
+    "skills": [
+      "Power BI",
+      "Budgeting",
+      "Excel",
+      "Credit Analysis",
+      "Portfolio Management",
+      "Data Analysis",
+      "Cash Flow Management",
+      "Financial Reporting",
+      "Tax Compliance",
+      "IFRS Accounting"
+    ],
+    "experience": [
+      {
+        "company": "Lion International Bank",
+        "role": "Credit Officer",
+        "duration": "5 years"
+      },
+      {
+        "company": "Commercial Bank of Ethiopia",
+        "role": "Budget Analyst",
+        "duration": "3 years"
+      }
+    ],
+    "education": [
+      {
+        "school": "Dire Dawa University",
+        "degree": "B.Sc. in Business Administration",
+        "year": 2020
+      },
+      {
+        "school": "Gondar University",
+        "degree": "B.Sc. in Finance",
+        "year": 2011
+      }
+    ],
+    "location": "Harar",
+    "languages": [
+      "Amharic",
+      "English",
+      "Tigrinya"
+    ],
+    "raw_text": "Biruk Yilma is a Credit Officer with expertise in Finance. Based in Harar, fluent in Amharic, English, Tigrinya."
+  },
+  {
+    "id": "c59dc0c7-3281-4691-8304-fc69163c8332",
+    "name": "Belay Gashaw",
+    "email": "belay.gashaw51@outlook.com",
+    "phone": "+251709882636",
+    "linkedin": "https://www.linkedin.com/in/belay-gashaw-4764",
+    "telegram": "@BelayGashaw510",
+    "category": "sales",
+    "skills": [
+      "HubSpot",
+      "Sales Forecasting",
+      "CRM Software",
+      "Customer Relationship Management",
+      "B2B Sales",
+      "B2C Sales"
+    ],
+    "experience": [
+      {
+        "company": "Meta Abo Brewery",
+        "role": "Account Manager",
+        "duration": "2 years"
+      },
+      {
+        "company": "Meta Abo Brewery",
+        "role": "Marketing Specialist",
+        "duration": "5 years"
+      },
+      {
+        "company": "Diageo Ethiopia",
+        "role": "Retail Sales Associate",
+        "duration": "3 years"
+      }
+    ],
+    "education": [
+      {
+        "school": "Dire Dawa University",
+        "degree": "B.A. in Communication",
+        "year": 2022
+      }
+    ],
+    "location": "Gondar",
+    "languages": [
+      "English",
+      "Amharic",
+      "French"
+    ],
+    "raw_text": "Belay Gashaw is a Account Manager with expertise in Sales. Based in Gondar, fluent in English, Amharic, French."
+  },
+  {
+    "id": "df831abe-4099-4003-8d2f-fb6ad13117c2",
+    "name": "Roza Eshetu",
+    "email": "r.eshetu@outlook.com",
+    "phone": "+251951989342",
+    "linkedin": "https://www.linkedin.com/in/roza-eshetu-7733",
+    "telegram": "@RozaEshetu592",
+    "category": "education",
+    "skills": [
+      "Special Needs Education",
+      "Curriculum Design",
+      "Content Development",
+      "Monitoring & Evaluation",
+      "Teaching Methodology",
+      "Academic Writing"
+    ],
+    "experience": [
+      {
+        "company": "Ethiopian Catholic Secretariat",
+        "role": "Instructional Designer",
+        "duration": "2 years"
+      }
+    ],
+    "education": [
+      {
+        "school": "Haramaya University",
+        "degree": "B.A. in English Language Teaching",
+        "year": 2010
+      },
+      {
+        "school": "Bahir Dar University",
+        "degree": "B.Sc. in Educational Psychology",
+        "year": 2023
+      }
+    ],
+    "location": "Addis Ababa",
+    "languages": [
+      "English",
+      "Amharic",
+      "French"
+    ],
+    "raw_text": "Roza Eshetu is a Instructional Designer with expertise in Education. Based in Addis Ababa, fluent in English, Amharic, French."
+  },
+  {
+    "id": "d5b14af1-e570-4a49-b722-9e6eb2c75656",
+    "name": "Almaz Gashaw",
+    "email": "a.gashaw@yahoo.com",
+    "phone": "0911459210",
+    "linkedin": "https://www.linkedin.com/in/almaz-gashaw-5864",
+    "telegram": "@AlmazGashaw736",
+    "category": "finance",
+    "skills": [
+      "QuickBooks",
+      "Financial Modeling",
+      "Data Analysis",
+      "IFRS Accounting",
+      "Credit Analysis",
+      "Financial Reporting"
+    ],
+    "experience": [
+      {
+        "company": "Oromia International Bank",
+        "role": "Treasury Officer",
+        "duration": "5 years"
+      }
+    ],
+    "education": [
+      {
+        "school": "Adama Science and Technology University",
+        "degree": "B.Sc. in Finance",
+        "year": 2020
+      }
+    ],
+    "location": "Bahir Dar",
+    "languages": [
+      "English",
+      "Amharic",
+      "French"
+    ],
+    "raw_text": "Almaz Gashaw is a Treasury Officer with expertise in Finance. Based in Bahir Dar, fluent in English, Amharic, French."
+  },
+  {
+    "id": "d15cc7b8-7535-446e-ba3f-34e478219c5e",
+    "name": "Girum Gebre",
+    "email": "girum.gebre87@yahoo.com",
+    "phone": "+251964626854",
+    "linkedin": "https://www.linkedin.com/in/girum-gebre-4667",
+    "telegram": "@GirumGebre489",
+    "category": "finance",
+    "skills": [
+      "Budgeting",
+      "Investment Analysis",
+      "Auditing",
+      "Data Analysis",
+      "Excel",
+      "IFRS Accounting",
+      "Banking Operations",
+      "Credit Analysis",
+      "Power BI"
+    ],
+    "experience": [
+      {
+        "company": "Awash Bank",
+        "role": "Treasury Officer",
+        "duration": "5 years"
+      },
+      {
+        "company": "Dashen Bank",
+        "role": "Loan Officer",
+        "duration": "4 years"
+      }
+    ],
+    "education": [
+      {
+        "school": "Mekelle University",
+        "degree": "MBA in Finance",
+        "year": 2013
+      }
+    ],
+    "location": "Gondar",
+    "languages": [
+      "Amharic",
+      "English"
+    ],
+    "raw_text": "Girum Gebre is a Treasury Officer with expertise in Finance. Based in Gondar, fluent in Amharic, English."
+  },
+  {
+    "id": "772ffd1a-7c62-4321-9898-58adbf059d24",
+    "name": "Yordanos Alemu",
+    "email": "yordanos.alemu@yahoo.com",
+    "phone": "0907201642",
+    "linkedin": "https://www.linkedin.com/in/yordanos-alemu-1943",
+    "telegram": "@YordanosAlemu976",
+    "category": "healthcare",
+    "skills": [
+      "Laboratory Techniques",
+      "Telemedicine",
+      "Radiology",
+      "Public Health Programs",
+      "Physiotherapy",
+      "Medical Research",
+      "Medical Documentation",
+      "Patient Care",
+      "Nutrition Counseling",
+      "Epidemiology"
+    ],
+    "experience": [
+      {
+        "company": "Marie Stopes Ethiopia",
+        "role": "Pediatrician",
+        "duration": "1 year"
+      },
+      {
+        "company": "Tikur Anbessa Specialized Hospital",
+        "role": "Pharmacist",
+        "duration": "3 years"
+      },
+      {
+        "company": "Alert Hospital",
+        "role": "Surgeon",
+        "duration": "5 years"
+      }
+    ],
+    "education": [
+      {
+        "school": "Dire Dawa University",
+        "degree": "B.Sc. in Public Health",
+        "year": 2009
+      },
+      {
+        "school": "Adama Science and Technology University",
+        "degree": "B.Sc. in Medical Laboratory",
+        "year": 2006
+      }
+    ],
+    "location": "Dessie",
+    "languages": [
+      "English",
+      "Amharic",
+      "French"
+    ],
+    "raw_text": "Yordanos Alemu is a Pediatrician with expertise in Healthcare. Based in Dessie, fluent in English, Amharic, French."
+  },
+  {
+    "id": "55de8e36-51b0-4b31-b7f9-c881d45224bd",
+    "name": "Lemi Balcha",
+    "email": "lemi.balcha@gmail.com",
+    "phone": "+251792324535",
+    "linkedin": "https://www.linkedin.com/in/lemi-balcha-6911",
+    "telegram": "@LemiBalcha293",
+    "category": "tech",
+    "skills": [
+      "PostgreSQL",
+      "Machine Learning",
+      "TypeScript",
+      "GraphQL",
+      "Flask",
+      "Go",
+      "CI/CD",
+      "REST APIs",
+      "Bash",
+      "Scikit-learn"
+    ],
+    "experience": [
+      {
+        "company": "iCog Labs",
+        "role": "Data Scientist",
+        "duration": "3 years"
+      },
+      {
+        "company": "Apposit LLC",
+        "role": "DevOps Engineer",
+        "duration": "3 years"
+      },
+      {
+        "company": "Ethio Telecom",
+        "role": "Backend Developer",
+        "duration": "2 years"
+      }
+    ],
+    "education": [
+      {
+        "school": "Jimma University",
+        "degree": "B.Sc. in Electrical Engineering",
+        "year": 2007
+      }
+    ],
+    "location": "Hawassa",
+    "languages": [
+      "English",
+      "Amharic",
+      "French"
+    ],
+    "raw_text": "Lemi Balcha is a Data Scientist with expertise in Tech. Based in Hawassa, fluent in English, Amharic, French."
+  },
+  {
+    "id": "89c61985-6bb8-4d3d-a134-3674660e685b",
+    "name": "Natnael Mengistu",
+    "email": "n.mengistu@protonmail.com",
+    "phone": "+9710132420",
+    "linkedin": "https://www.linkedin.com/in/natnael-mengistu-4468",
+    "telegram": "@NatnaelMengistu278",
+    "category": "finance",
+    "skills": [
+      "Risk Assessment",
+      "SAP",
+      "IFRS Accounting",
+      "Financial Reporting",
+      "Cash Flow Management",
+      "Tax Compliance",
+      "Cost Accounting",
+      "QuickBooks",
+      "Data Analysis",
+      "Investment Analysis",
+      "Budgeting"
+    ],
+    "experience": [
+      {
+        "company": "Dashen Bank",
+        "role": "Financial Controller",
+        "duration": "5 years"
+      }
+    ],
+    "education": [
+      {
+        "school": "Addis Ababa University",
+        "degree": "B.Sc. in Finance",
+        "year": 2007
+      }
+    ],
+    "location": "Harar",
+    "languages": [
+      "English",
+      "Amharic"
+    ],
+    "raw_text": "Natnael Mengistu is a Financial Controller with expertise in Finance. Based in Harar, fluent in English, Amharic."
+  },
+  {
+    "id": "913f1aac-83fb-46ca-a7f2-61c4c242cf29",
+    "name": "Chaltu Mammo",
+    "email": "chaltu.mammo59@outlook.com",
+    "phone": "0931246417",
+    "linkedin": "https://www.linkedin.com/in/chaltu-mammo-4938",
+    "telegram": "@ChaltuMammo974",
+    "category": "logistics",
+    "skills": [
+      "Lean Manufacturing",
+      "International Trade",
+      "MS Excel",
+      "ERP Systems",
+      "Inventory Control",
+      "Cold Chain Management"
+    ],
+    "experience": [
+      {
+        "company": "Trans-Ethiopia Transport",
+        "role": "Fleet Manager",
+        "duration": "5 years"
+      }
+    ],
+    "education": [
+      {
+        "school": "Gondar University",
+        "degree": "B.Sc. in Logistics and Supply Chain Management",
+        "year": 2021
+      }
+    ],
+    "location": "Harar",
+    "languages": [
+      "Amharic",
+      "English"
+    ],
+    "raw_text": "Chaltu Mammo is a Fleet Manager with expertise in Logistics. Based in Harar, fluent in Amharic, English."
+  },
+  {
+    "id": "235d87cc-e026-4cf5-a5fe-50f3c63b2f11",
+    "name": "Haben Markos",
+    "email": "haben.markos65@protonmail.com",
+    "phone": "+251794528597",
+    "linkedin": "https://www.linkedin.com/in/haben-markos-7477",
+    "telegram": "@HabenMarkos421",
+    "category": "tech",
+    "skills": [
+      "Python",
+      "Bash",
+      "MySQL",
+      "Git",
+      "SQL",
+      "Redis",
+      "Pandas",
+      "NumPy"
+    ],
+    "experience": [
+      {
+        "company": "IBM Ethiopia",
+        "role": "AI Engineer",
+        "duration": "1 year"
+      }
+    ],
+    "education": [
+      {
+        "school": "Mekelle University",
+        "degree": "B.Sc. in Software Engineering",
+        "year": 2018
+      }
+    ],
+    "location": "Hawassa",
+    "languages": [
+      "Amharic",
+      "English",
+      "Somali"
+    ],
+    "raw_text": "Haben Markos is a AI Engineer with expertise in Tech. Based in Hawassa, fluent in Amharic, English, Somali."
+  },
+  {
+    "id": "8f350d34-827c-495c-b41b-b4e15bde0662",
+    "name": "Fikadu Gizaw",
+    "email": "fikadu.gizaw@yahoo.com",
+    "phone": "0961492751",
+    "linkedin": "https://www.linkedin.com/in/fikadu-gizaw-9000",
+    "telegram": "@FikaduGizaw662",
+    "category": "logistics",
+    "skills": [
+      "Customs Clearance",
+      "SAP Logistics",
+      "International Trade",
+      "Lean Manufacturing",
+      "Inventory Control",
+      "Demand Forecasting"
+    ],
+    "experience": [
+      {
+        "company": "DHL Ethiopia",
+        "role": "Operations Coordinator",
+        "duration": "3 years"
+      },
+      {
+        "company": "Ethio Freight PLC",
+        "role": "Transport Manager",
+        "duration": "3 years"
+      },
+      {
+        "company": "DHL Ethiopia",
+        "role": "Inventory Manager",
+        "duration": "4 years"
+      }
+    ],
+    "education": [
+      {
+        "school": "Mekelle University",
+        "degree": "B.Sc. in Transport Management",
+        "year": 2020
+      },
+      {
+        "school": "Hawassa University",
+        "degree": "MBA in Operations Management",
+        "year": 2022
+      }
+    ],
+    "location": "Jimma",
+    "languages": [
+      "Amharic",
+      "English"
+    ],
+    "raw_text": "Fikadu Gizaw is a Operations Coordinator with expertise in Logistics. Based in Jimma, fluent in Amharic, English."
+  },
+  {
+    "id": "b036ad93-ca9d-486b-aee3-40aea6779e70",
+    "name": "Bethlehem Tilahun",
+    "email": "bethlehem.tilahun@protonmail.com",
+    "phone": "+251950826826",
+    "linkedin": "https://www.linkedin.com/in/bethlehem-tilahun-5736",
+    "telegram": "@BethlehemTilahun173",
+    "category": "logistics",
+    "skills": [
+      "MS Excel",
+      "Trade Compliance",
+      "Customs Clearance",
+      "Fleet Management",
+      "International Trade",
+      "Freight Forwarding",
+      "Supply Chain Management",
+      "ERP Systems",
+      "Lean Manufacturing",
+      "Vendor Management"
+    ],
+    "experience": [
+      {
+        "company": "Maersk Ethiopia",
+        "role": "Logistics Coordinator",
+        "duration": "3 years"
+      },
+      {
+        "company": "Express Transit Services",
+        "role": "Operations Coordinator",
+        "duration": "3 years"
+      },
+      {
+        "company": "Ethio Freight PLC",
+        "role": "Inventory Manager",
+        "duration": "3 years"
+      }
+    ],
+    "education": [
+      {
+        "school": "Addis Ababa Science and Technology University (AASTU)",
+        "degree": "MBA in Operations Management",
+        "year": 2013
+      },
+      {
+        "school": "Haramaya University",
+        "degree": "B.Sc. in Business Management",
+        "year": 2006
+      }
+    ],
+    "location": "Mekelle",
+    "languages": [
+      "Amharic",
+      "English"
+    ],
+    "raw_text": "Bethlehem Tilahun is a Logistics Coordinator with expertise in Logistics. Based in Mekelle, fluent in Amharic, English."
+  },
+  {
+    "id": "35bb9f9a-1ca3-4437-ace9-3cd3b2d6463d",
+    "name": "Zewdu Wolde",
+    "email": "z.wolde@protonmail.com",
+    "phone": "+4492095464",
+    "linkedin": "https://www.linkedin.com/in/zewdu-wolde-3132",
+    "telegram": "@ZewduWolde540",
+    "category": "education",
+    "skills": [
+      "Lesson Planning",
+      "English as a Second Language (ESL)",
+      "Microsoft Office",
+      "Mentoring",
+      "Student Assessment",
+      "Instructional Technology",
+      "Educational Research",
+      "Moodle",
+      "Grant Writing"
+    ],
+    "experience": [
+      {
+        "company": "Imagine One Day Ethiopia",
+        "role": "Curriculum Developer",
+        "duration": "5 years"
+      }
+    ],
+    "education": [
+      {
+        "school": "Dire Dawa University",
+        "degree": "PhD in Education",
+        "year": 2010
+      },
+      {
+        "school": "Arba Minch University",
+        "degree": "B.Sc. in Educational Psychology",
+        "year": 2011
+      }
+    ],
+    "location": "Dire Dawa",
+    "languages": [
+      "Amharic",
+      "English"
+    ],
+    "raw_text": "Zewdu Wolde is a Curriculum Developer with expertise in Education. Based in Dire Dawa, fluent in Amharic, English."
+  },
+  {
+    "id": "43150747-d243-46b3-8b87-b426d4bd61e0",
+    "name": "Feven Tesfaye",
+    "email": "feven.tesfaye@gmail.com",
+    "phone": "+15405715",
+    "linkedin": "https://www.linkedin.com/in/feven-tesfaye-5275",
+    "telegram": "@FevenTesfaye802",
+    "category": "logistics",
+    "skills": [
+      "Inventory Control",
+      "International Trade",
+      "Demand Forecasting",
+      "MS Excel",
+      "Route Optimization",
+      "SAP Logistics",
+      "Freight Forwarding",
+      "ERP Systems",
+      "Supply Chain Management",
+      "Warehouse Management",
+      "Customs Clearance",
+      "Fleet Management"
+    ],
+    "experience": [
+      {
+        "company": "DHL Ethiopia",
+        "role": "Fleet Manager",
+        "duration": "4 years"
+      }
+    ],
+    "education": [
+      {
+        "school": "Wollo University",
+        "degree": "B.Sc. in Industrial Engineering",
+        "year": 2015
+      },
+      {
+        "school": "Mekelle University",
+        "degree": "B.Sc. in Transport Management",
+        "year": 2012
+      }
+    ],
+    "location": "Harar",
+    "languages": [
+      "Amharic",
+      "English",
+      "Tigrinya"
+    ],
+    "raw_text": "Feven Tesfaye is a Fleet Manager with expertise in Logistics. Based in Harar, fluent in Amharic, English, Tigrinya."
+  },
+  {
+    "id": "62a5690d-028e-4321-a249-1932612bded0",
+    "name": "Robel Tsegaw",
+    "email": "r.tsegaw@outlook.com",
+    "phone": "+251780543779",
+    "linkedin": "https://www.linkedin.com/in/robel-tsegaw-9381",
+    "telegram": "@RobelTsegaw022",
+    "category": "sales",
+    "skills": [
+      "Sales Strategy",
+      "Account Management",
+      "Cold Calling",
+      "Brand Management",
+      "Digital Marketing",
+      "B2C Sales",
+      "Google Ads"
+    ],
+    "experience": [
+      {
+        "company": "Unilever Ethiopia",
+        "role": "Customer Success Manager",
+        "duration": "4 years"
+      },
+      {
+        "company": "Heineken Ethiopia",
+        "role": "Regional Sales Manager",
+        "duration": "3 years"
+      },
+      {
+        "company": "Unilever Ethiopia",
+        "role": "Sales Representative",
+        "duration": "5 years"
+      }
+    ],
+    "education": [
+      {
+        "school": "Haramaya University",
+        "degree": "B.Sc. in Commerce",
+        "year": 2012
+      }
+    ],
+    "location": "Gondar",
+    "languages": [
+      "Amharic",
+      "English",
+      "Somali"
+    ],
+    "raw_text": "Robel Tsegaw is a Customer Success Manager with expertise in Sales. Based in Gondar, fluent in Amharic, English, Somali."
+  },
+  {
+    "id": "f85d68ab-8bc0-40a7-91bb-23876428c3a8",
+    "name": "Zenash Tesfaye",
+    "email": "zenash.tesfaye20@protonmail.com",
+    "phone": "+9719361513777",
+    "linkedin": "https://www.linkedin.com/in/zenash-tesfaye-6788",
+    "telegram": "@ZenashTesfaye182",
+    "category": "healthcare",
+    "skills": [
+      "Telemedicine",
+      "Patient Care",
+      "Clinical Assessment",
+      "Public Health Programs",
+      "EHR Systems",
+      "Medical Documentation",
+      "Mental Health Support",
+      "Physiotherapy",
+      "Pharmacology",
+      "Emergency Care"
+    ],
+    "experience": [
+      {
+        "company": "Black Lion Hospital",
+        "role": "General Practitioner",
+        "duration": "4 years"
+      }
+    ],
+    "education": [
+      {
+        "school": "Haramaya University",
+        "degree": "B.Sc. in Nursing",
+        "year": 2013
+      },
+      {
+        "school": "Arba Minch University",
+        "degree": "B.Sc. in Public Health",
+        "year": 2020
+      }
+    ],
+    "location": "Harar",
+    "languages": [
+      "Amharic",
+      "English"
+    ],
+    "raw_text": "Zenash Tesfaye is a General Practitioner with expertise in Healthcare. Based in Harar, fluent in Amharic, English."
+  }
+]
